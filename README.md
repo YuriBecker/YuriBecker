@@ -3,6 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/yuri-becker/)
 [![Gmail Badge](https://img.shields.io/badge/-becker.yr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:becker.yr@gmail.com)](mailto:becker.yr@gmail.com)
 
+#### I'm a remote Frontend Developer working in Brasil.
+
 ## ⚡ Technologies
 
 ![TypeScript](https://img.shields.io/badge/-Typescript-%231572B6?style=flat-square&logo=typescript)
