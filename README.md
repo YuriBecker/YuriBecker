@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/yuri-becker/)
 [![Gmail Badge](https://img.shields.io/badge/-becker.yr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:becker.yr@gmail.com)](mailto:becker.yr@gmail.com)
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 ![Profile views](https://gpvc.arturio.dev/yuribecker) 
 
 <div align="center">
