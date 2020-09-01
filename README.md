@@ -1,8 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-becker/
-)](https://www.linkedin.com/in/yuri-becker/
-)[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:becker.yr@gmail.com)](mailto:becker.yr@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-yuri-becker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-becker/)](https://www.linkedin.com/in/yuri-becker/)[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:becker.yr@gmail.com)](mailto:becker.yr@gmail.com)
 
 <!--
 **YuriBecker/YuriBecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
