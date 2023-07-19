@@ -14,6 +14,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-%99425BFF?style=flat-square&logo=jest)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![GO](https://img.shields.io/badge/-GO-%231572B6?style=flat-square&logo=GO)
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
